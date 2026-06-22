@@ -26,4 +26,4 @@ A simple command-line Blackjack game built with Python. The player competes agai
 ## 🚀 How to Run
 
 ```bash
-python blackjack.py
+python BlackJack_21.py
